@@ -1,0 +1,13 @@
+body{
+      background-image:url("/home/Sem6B10/Desktop/rose.jpeg");
+      background-repeat:no-repeat;
+      background-attachment:fixed;
+      background-attachment:scroll;
+     }
+      h1{
+        color:black;
+        margin-left:40px;
+       }
+      p{
+       color:green;
+       }
