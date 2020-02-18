@@ -9,5 +9,35 @@ body{
         margin-left:40px;
        }
       p{
-       color:green;
+       color:purple;
+       font-family:monospace; 
+       font-size:large;
+       font-weight:bolder; 
+       direction:rtl;
+       letter-spacing:5px; 
+       text-align:right;
+        
        }
+      p1{
+       color:red;
+       font-family:monospace; 
+       font-size:large; 
+       font-weight:500;
+       word-spacing:5px;
+       text-indent:1cm; 
+       text-decoration:overline;  
+       }
+       
+       p2{
+       color:black;
+       font-family:monospace; 
+       font-size:large; 
+       font-weight:500;
+       word-spacing:5px;
+       text-indent:1cm; 
+       text-transform:Uppercase;
+       text-shadow:4px 6px 8px blue;
+       }
+     .shalini{color:green;}
+      
+  
