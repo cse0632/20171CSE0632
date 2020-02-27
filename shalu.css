@@ -40,4 +40,22 @@ body{
        }
      .shalini{color:green;}
       
-  
+  #a{ color:blue;
+       font-family:monospace; 
+       font-size:large; }
+p{
+border-style:solid;
+border-width:4px 10px 4px 20px;
+}
+p{
+border-top-style:dotted;
+border-right-style:solid;
+border-bottom-style:dotted;
+border-left-style:solid;}
+p3{
+margin:25px 50px 75px 100px;
+}
+div{
+width:300px;
+margin:auto;
+}
